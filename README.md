@@ -5,7 +5,7 @@ This Jupyter Notebook encompasses an Exploratory Data Analysis (EDA) of a lendin
 
 ## Objective
 The objective of this analysis is to derive insights that can help in understanding:
-- Minimizing
+- Minimizing Credit Risk
 - Identifying potential risk 
 - Improve Decision-making process
 
