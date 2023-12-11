@@ -9,18 +9,16 @@ The objective of this analysis is to derive insights that can help in understand
 - Identifying potential risk 
 - Improve Decision-making process
 
-![EDA Process](presentation/EDA%20process%20image.png)
-
 ## Methodology
+![EDA Process](presentation/EDA%20process%20image.png)
 ### Data Cleaning and Preprocessing:
+![Data cleaning ](presentation/Data%20cleaning.png)
+
 - Handling missing values
 - Removing Outliers
 - Converting data types
 - Dropping redundant columns
 
-![Data cleaning ](presentation/Data%20cleaning.png)
-
-  
 ### Exploratory Data Analysis:
 - Target Definition: Creating a binary 'target' column based on loan status
 - Visualization of loan status distribution
