@@ -3,6 +3,17 @@
 ## Overview
 This Jupyter Notebook encompasses an Exploratory Data Analysis (EDA) of a lending dataset. The primary aim is to analyze and understand the various features and patterns within the data related to loan lending and repayment.
 
+# Folder Structure
+
+- Code/
+  - **Mihir_Pahwa.ipynb** ( contains EDA code )   
+- Data Folder/
+  - Data_dictionary.xlsx ( Contains Data dictionary ) 
+- Presentation/
+  - **Slides- Lending Case.pdf** ( contains ppt ) 
+- README.md
+  - markdown readme file 
+
 ## Objective
 The objective of this analysis is to derive insights that can help in understanding:
 - Minimizing Credit Risk
